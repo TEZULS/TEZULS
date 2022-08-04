@@ -30,4 +30,4 @@ Big or small, a project deserves a description !
 ---
 | Discord Status  | I use these languages  | Others  |
 | -- | -- | -- |
-| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/504392983244832780)](https://discord.com/users/504392983244832780) | [![My Skills](https://skillicons.dev/icons?i=php,html,css&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,mysql,linux&perline=3)](https://skillicons.dev) |
+| [![Discord Presence](https://lanyard.cnrad.dev/api/495901655133323265)](https://discord.com/users/495901655133323265) | [![My Skills](https://skillicons.dev/icons?i=php,html,css&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,mysql,linux&perline=3)](https://skillicons.dev) |
