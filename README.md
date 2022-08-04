@@ -1,8 +1,6 @@
-### Hi :wave:
+### TEZULS,
 
-TEZULS,
-
-Big or small, a project deserves a description !
+Big and small project !
 
 <p align="center">  
   <a href="https://twitter.com/TEZULSMC">
