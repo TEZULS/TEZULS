@@ -8,9 +8,6 @@ Big or small, a project deserves a description !
   <a href="https://twitter.com/TEZULSMC">
     <img src="https://skillicons.dev/icons?i=twitter" alt="" />
   </a>
-  <a href="https://instagram.com/TEZULSMC">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="" />
-  </a>
   <a href="http://arkamc.eu/discord">
     <img src="https://skillicons.dev/icons?i=discord" alt="" />
   </a>
@@ -23,7 +20,7 @@ Big or small, a project deserves a description !
 
 **__Actives projects__**:
  <details>
-      <summary>🤖 <a href="https://github.com/ArkaniaStudios">Rox</a>: A Minecraft Bedrock Server, where I am developer, founder the server progresses little by little according to our envy of the day <strong>(Since 2019)</strong></summary>
+      <summary>🎈 <a href="https://github.com/ArkaniaStudios">ARKANIA</a>: A Minecraft Bedrock Server, where I am developer, founder the server progresses little by little according to our envy of the day <strong>(Since 2019)</strong></summary>
       ARKANIA I will never forget this name of my life, one of the things that made me discover a person who is today a great friend, despite many insults but between us we know that we laugh. He thought of me to create a Minecraft server, and in 1 week we became great friends.
  </details>
 
