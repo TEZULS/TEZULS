@@ -1,9 +1,9 @@
 ### TEZULS,
 
-Big and small project !
+Jeune développeur web, j'ai eu plusieurs projets actuellement je me concentre sur 1 seul en particulier. !
 
 <p align="center">  
-  <a href="https://twitter.com/TEZULSMC">
+  <a href="https://twitter.com/tezulsfr">
     <img src="https://skillicons.dev/icons?i=twitter" alt="" />
   </a>
   <a href="http://arkamc.eu/discord">
@@ -16,10 +16,9 @@ Big and small project !
     <img src="https://skillicons.dev/icons?i=github" alt="" />
 </p>
 
-**__Actives projects__**:
+**__Projet actuelle__**:
  <details>
-      <summary>🎈 <a href="https://github.com/ArkaniaStudios">ARKANIA</a>: A Minecraft Bedrock Server, where I am developer, founder the server progresses little by little according to our envy of the day <strong>(Since 2019)</strong></summary>
-      ARKANIA I will never forget this name of my life, one of the things that made me discover a person who is today a great friend, despite many insults but between us we know that we laugh. He thought of me to create a Minecraft server, and in 1 week we became great friends.
+      <summary>🎈 <a href="https://github.com/ArkaniaStudios">ARKANIA</a>: Arkania est un serveur Minecraft Bedrock édition, où je suis fondateur et développeur. Basé sur pocketmine nous avançons a notre rythme (depuis 2019)</strong></summary>
  </details>
 
 ---
