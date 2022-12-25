@@ -1,15 +1,14 @@
 ### TEZULS,
 
 # 🙄 About me
-Hello! I'm TEZULS, a passionate back-end developer since 2020.
+Hello ! I am TEZULS, a passionate developer since 2020.
 
 
-# 🛠️ What am I working on ?
-Currently, I'm working on a minecraft server project: [Arkane Studios](https://arkaniastudios.org).
+# 🛠 I working on ?
+Currently, I'm working on a minecraft server project: [ArkaniaStudios](https://arkaniastudios.org).
 
-# 🔗 Contact
+# 🔗 Contact me
 - [tezulspro@arkaniastudios.org](mailto:arkaniastudios.org)
-- [Twitter](https://twitter.com/tezulsfr)
 - [TEZULS#1234](https://discord.com/users/495901655133323265)
 
 ---
