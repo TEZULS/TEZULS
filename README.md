@@ -1,7 +1,7 @@
 ### TEZULS,
 
 # 🙄 About me
-Hello ! I am TEZULS, a passionate developer since 2020.
+Hello ! I am Nassim (TEZULS), a passionate developer since 2020.
 
 
 # 🛠 I working on ?
