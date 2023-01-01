@@ -1,4 +1,4 @@
-### TEZULS,
+### Nassim,
 
 # 🙄 About me
 Hello ! I am Nassim (TEZULS), a passionate developer since 2020.
