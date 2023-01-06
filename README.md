@@ -16,4 +16,4 @@ Currently, I'm working on my minecraft server [ArkaniaStudios](https://arkaniast
 ---
 | Discord | I use these languages  | Others  |
 | -- | -- | -- |
-| [![Discord Presence](https://lanyard.cnrad.dev/api/495901655133323265)](https://discord.com/users/495901655133323265) | [![My Skills](https://skillicons.dev/icons?i=php,js,html,css&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,mysql&perline=3)](https://skillicons.dev) |
+| [![Discord Presence](https://lanyard.cnrad.dev/api/495901655133323265)](https://discord.com/users/495901655133323265) | [![My Skills](https://skillicons.dev/icons?i=php,html,css&perline=2)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=github,mysql&perline=2)](https://skillicons.dev) |
