@@ -1,5 +1,7 @@
 ### Nassim,
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TEZULS&label=Profile%20views&color=0e75b6&style=flat" alt="TEZULS" /> </p>
+
 # 🙄 About me
 Hello ! I am Nassim (TEZULS), a passionate developer since 2020.
 
