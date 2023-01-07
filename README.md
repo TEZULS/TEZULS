@@ -5,6 +5,8 @@
 # 🙄 About me
 Hello ! I am Nassim (TEZULS), a passionate developer since 2020.
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TEZULS&show_icons=true&locale=en" alt="TEZULS" /></p>
+
 
 # 🛠 I working on ?
 Currently, I'm working on my minecraft server [ArkaniaStudios](https://arkaniastudios.org).
