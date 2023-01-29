@@ -9,7 +9,7 @@ Hello ! I am Nassim (TEZULS), a passionate developer since 2020.
 
 
 # 🛠 I working on ?
-Currently, I'm working on my minecraft server [ArkaniaStudios](https://arkaniastudios.com).
+I'm working on my minecraft server [ArkaniaStudios](https://arkaniastudios.com).
 
 # 🔗 Contact me ?
 - [tezuls@arkaniastudios.com](mailto:tezuls@arkaniastudios.com)
