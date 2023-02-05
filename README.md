@@ -18,4 +18,4 @@ I'm working on my minecraft server [ArkaniaStudios](https://arkaniastudios.com).
 ---
 | languages  | others  |
 | -- | -- |
-| [![My Skills](https://skillicons.dev/icons?i=html,css,php&perline=3)](https://skillicons.dev) | [My Skills](https://skillicons.dev/icons?i=github,git,discord&perline=3) |
+| [![My Skills](https://skillicons.dev/icons?i=html,css,php&perline=3)](https://skillicons.dev) | ![My Skills](https://skillicons.dev/icons?i=github,git,discord&perline=3) |
