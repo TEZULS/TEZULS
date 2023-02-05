@@ -14,7 +14,7 @@ I'm working on my minecraft server [ArkaniaStudios](https://arkaniastudios.com).
 
 ---
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TEZULS&show_icons=true&locale=en" alt="TEZULS" /></p>
----
+
 | languages  | others  |
 | -- | -- |
 | ![My Skills](https://skillicons.dev/icons?i=html,css,php&perline=3) | ![My Skills](https://skillicons.dev/icons?i=github,git,discord&perline=3) |
