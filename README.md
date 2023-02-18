@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TEZULS&label=Profile%20views&color=0e75b6&style=flat" alt="TEZULS" /> </p>
 
 # 🙄 About me !
-Hello, I am Nassim, I live and study in France. I am passionate about programming since 2020, I mainly use the PocketMine API to build my plugins. Currently I work mainly for @ArkaniaStudios
+Hello, I am Nassim, I live and study in France. I am passionate about programming since 2020, I mainly use the PocketMine API to build my plugins.
 
 # 🛠 I working on ?
 I'm working on my minecraft server [ArkaniaStudios](https://arkaniastudios.com/discord).
