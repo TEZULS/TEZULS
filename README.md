@@ -8,7 +8,7 @@ Hello, I am Nassim, I live and study in France. I am passionate about programmin
 # 🛠 I working on ?
 I'm working on my minecraft server [ArkaniaStudios](https://arkaniastudios.com/discord).
 
-# 🔗 Contact me 
+# 🔗 Contact me ?
 - [tezuls@arkaniastudios.com](mailto:tezuls@arkaniastudios.com)
 - [TEZULS#1234](https://discord.com/users/495901655133323265)
 
