@@ -17,5 +17,5 @@ I'm working on my minecraft server [ArkaniaStudios](https://arkaniastudios.com/d
 | -- | -- |
 | ![My Skills](https://skillicons.dev/icons?i=html,css,php&perline=3) | ![My Skills](https://skillicons.dev/icons?i=github,git,discord&perline=3) |
 
-<td> <img src="https://raw.githubusercontent.com/asudbury/github-stats-transparent/output/generated/overview.svg" alt="Adrian Sudbury GitHub stats"  /></td>
+<td> <img src="https://raw.githubusercontent.com/TEZULS/github-stats-transparent/output/generated/overview.svg" alt="TEZULS GitHub stats"  /></td>
 
