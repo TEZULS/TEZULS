@@ -11,6 +11,6 @@ I'm working on my minecraft server [ArkaniaStudios](https://github.com/ArkaniaSt
 - [TEZULS#1234](https://discord.com/users/495901655133323265)
 
 ---
-| languages use  | others  |
+| languages  | others  |
 | -- | -- |
 | ![My Skills](https://skillicons.dev/icons?i=html,css,php&perline=3) | ![My Skills](https://skillicons.dev/icons?i=github,git,discord&perline=3) |
