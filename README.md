@@ -6,9 +6,11 @@ Hello my name is Nassim, I live and study in France. I am passionate about progr
 # 🛠 I working on ?
 I'm working on my minecraft server [ArkaniaStudios](https://github.com/ArkaniaStudios).
 
+
 # 🔗 Contact me 
 - [tezuls@arkaniastudios.com](mailto:tezuls@arkaniastudios.com)
 - [TEZULS#1234](https://discord.com/users/495901655133323265)
+- [Linkedln](https://www.linkedin.com/in/nassim-essid-574127255/)
 
 ---
 | languages  | others  |
