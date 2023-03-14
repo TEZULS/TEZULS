@@ -1,6 +1,6 @@
 ### Nassim E,
 
-# 🙄 About me 
+# 🙄 About me !
 Hello my name is Nassim, I live and study in France. I am passionate about programming since 2020, I mainly use the PocketMine API to build my plugins.
 
 # 🛠 I working on ?
