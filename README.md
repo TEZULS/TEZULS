@@ -8,7 +8,7 @@ I'm working on my minecraft server [ArkaniaStudios](https://github.com/ArkaniaSt
 
 
 # 🔗 Contact me 
-- [tezuls@arkaniastudios.com](mailto:tezuls@arkaniastudios.com)
+- [essidnassim.contact@gmail.com](mailto:essidnassim.contact@gmail.com)
 - [TEZULS#1234](https://discord.com/users/495901655133323265)
 - [Linkedln](https://www.linkedin.com/in/nassim-essid-574127255/)
 
