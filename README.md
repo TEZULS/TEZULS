@@ -4,7 +4,7 @@
 Hello my name is Nassim, I live and study in France. I am passionate about programming since 2020, I mainly use the PocketMine API to build my plugins.
 
 # 🛠 I working on ?
-I'm working on my minecraft server [ArkaniaStudios](https://github.com/ArkaniaStudios).
+I'm working on my minecraft server, it requires me to use several technology and language like php to build an environment in game or the typescript to make a maintain a site with svelte. [(LINK)](https://github.com/ArkaniaStudios)
 
 
 # 🔗 Contact me 
