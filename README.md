@@ -15,4 +15,4 @@ I'm working on my minecraft server, it requires me to use several technology and
 ---
 | languages  | others  |
 | -- | -- |
-| ![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,typescript&perline=5) | ![My Skills](https://skillicons.dev/icons?i=github,git,discord,svelte&perline=3) |
+| ![My Skills](https://skillicons.dev/icons?i=html,css,php,typescript&perline=4) | ![My Skills](https://skillicons.dev/icons?i=github,git,discord,svelte&perline=4) |
