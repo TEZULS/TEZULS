@@ -13,6 +13,6 @@ I'm working on my minecraft server, it requires me to use several technology and
 - [Linkedln](https://www.linkedin.com/in/nassim-essid-574127255/)
 
 ---
-| languages  | others  |
+| languages  | frameworks | others  |
 | -- | -- |
-| ![My Skills](https://skillicons.dev/icons?i=html,css,php,typescript&perline=4) | ![My Skills](https://skillicons.dev/icons?i=github,git,discord,svelte&perline=4) |
+| ![My Skills](https://skillicons.dev/icons?i=html,css,php,typescript&perline=4) | ![My Skills](https://skillicons.dev/icons?i=svelte&perline=1) | ![My Skills](https://skillicons.dev/icons?i=github,git,discord&perline=3) |
