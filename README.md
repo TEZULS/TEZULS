@@ -6,4 +6,3 @@ Hello my name is Nassim, I live and study in France. I am passionate about progr
 | -- | -- |
 | ![My Skills](https://skillicons.dev/icons?i=html,css,php,typescript&perline=4) | ![My Skills](https://skillicons.dev/icons?i=svelte,github,git,discord&perline=4) |
 
-![Snake animation](https://github.com/TEZULS/TEZULS/blob/output/github-contribution-grid-snake.svg)
