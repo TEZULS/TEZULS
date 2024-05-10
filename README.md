@@ -7,5 +7,5 @@ Hello, my name is Nassim, I live and study in France. I am passionate about prog
   <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,php&perline=5" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=svelte,react,figma,github,git&perline=4" />
+  <img src="https://skillicons.dev/icons?i=svelte,figma,github,git&perline=4" />
 </p>
